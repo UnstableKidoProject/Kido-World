@@ -266,7 +266,7 @@ class Controller:
                 print("You're Invincible!")
     
         ''' Player dies'''
-        if self.kido.rect.bottom > self.height:
+        if self.kido.rect.bottom > self.height + 10:
             self.STATE = "GAMEOVER"
 
 
