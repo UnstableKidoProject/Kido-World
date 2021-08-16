@@ -5,6 +5,6 @@ To play run the main file
 Main player was modelled after this work https://www.instagram.com/p/CGUh88Xn5qr/
 The goal of the game to to jump on the platforms and make it as high as you can without falling or getting hit by lonely ball enemies
 There are Flexis that spawn and act as a powerup to give you invincibility to the lonely ball enemies
-Red platforms and unstable pills act as a boost
+Red platforms and unstable pills act as a boost which also give you a short flexi powerup while you are being launched upwards
 Blue platforms break apart
 Yellow and Gray platforms move
