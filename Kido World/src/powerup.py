@@ -21,7 +21,7 @@ class Powerup(pygame.sprite.Sprite):
 
         # set other attributes
         self.name = name
-        self.duration = 1500
+        self.duration = 1000
           
     
     def reposition(self):
